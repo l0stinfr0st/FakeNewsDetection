@@ -69,7 +69,7 @@ Implemented in `Model_Implementation_Notebook.ipynb`:
 
 - Train-test split
 - TF-IDF feature matrix construction
-- Machine learning classifiers (e.g., Logistic Regression, Naive Bayes, or similar)
+- Machine learning classifiers (Decision Trees, and Random Forests)
 - Model training and evaluation
 - Performance metrics:
   - Accuracy
@@ -77,7 +77,7 @@ Implemented in `Model_Implementation_Notebook.ipynb`:
   - Recall
   - F1-score
 
-The notebook focuses on clarity and reproducibility rather than heavy hyperparameter tuning.
+The notebook focuses on clarity and reproducibility rather than heavy hyperparameter tuning, but it also uses GridSearchCV for the hyperparameter tuning.
 
 ---
 
@@ -85,7 +85,7 @@ The notebook focuses on clarity and reproducibility rather than heavy hyperparam
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone <https://github.com/l0stinfr0st/FakeNewsDetection/>
 cd fake-news-detection
 ```
 
