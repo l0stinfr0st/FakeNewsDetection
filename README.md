@@ -11,7 +11,7 @@ This repository contains an end-to-end **fake news detection** project, includin
 ├── notebooks/
 │   ├── ISOT_EDA.ipynb
 │   ├── LIAR_EDA_.ipynb
-│   └── Model_Implementation_Notebook.ipynb
+│   └── implementation.ipynb
 │
 ├── requirements.txt
 ├── README.md
